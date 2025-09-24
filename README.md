@@ -30,3 +30,8 @@ PostgreSQL
     ↓
 Streamlit Dashboard (live queries + charts + wordcloud)
 
+TechStack:
+Python
+Apache Kafka
+Streamlit
+Pyspark
